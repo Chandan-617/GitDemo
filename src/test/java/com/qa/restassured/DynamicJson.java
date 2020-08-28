@@ -40,5 +40,12 @@ public class DynamicJson {
 
 		return obj;
 	}
+	
+	@Test
+	public void getOutput()
+	{
+		
+		System.out.println("this is innocent");
+	}
 
 }
